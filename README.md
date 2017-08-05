@@ -2,7 +2,7 @@
 
 ## Index
 
-[Main]()     
+[Main](../../)     
 1. [Connect the dot bot](/connect-the-dot-bot/)
 2. [Simulation](/simulation/)
 3. [Objects](/objects/)
