@@ -2,10 +2,10 @@
 
 ## Index
 
-* [Main]() 
-1. [Connect the dot bot]()
-2. [Simulation]()
-3. [Objects]()
+[Main]()     
+1. [Connect the dot bot](/connect-the-dot-bot/)
+2. [Simulation](/simulation/)
+3. [Objects](/objects/)
 4. [Joints]() 
 5. [Sensors]() 
 6. [Neurons]()
