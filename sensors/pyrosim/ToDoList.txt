@@ -1,0 +1,39 @@
+to do:
+
+comments and make api
+
+change ludobots pyrosim link to point to old version
+
+webpage
+  - videos, highlight reel
+
+logo
+
+directory
+
+windows
+  - virtual machine
+  - linux partition
+  - figure out pipes
+
+check ids
+
+motar strength
+
+#completed 2017-05-31 ---- input function
+
+different joint types
+
+collision detection
+  - collision pair
+  
+demos 
+  slow strong motor
+  slow weak motor
+  fast strong motor
+  fast weak motor
+  
+impulse forces
+
+debug mode (draw joints etc.)
+
